@@ -109,7 +109,8 @@ form{
     width: 100%;
 }
 .form-container h2{
-    color: white;
+    color: blue;
+    text-shadow: 0px 0px 5px red;
     padding: 10px;
     font-family: Arial;
 }
